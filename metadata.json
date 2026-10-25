@@ -1,0 +1,6 @@
+{
+  "name": "Lumina",
+  "description": "Mindset to impact: visual and audio affirmations, breathing sanctuary, affirmations decks, journal, and ripples of kindness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
